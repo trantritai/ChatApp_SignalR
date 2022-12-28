@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'chatapp-angular'`, () => {
+  it(`should have as title 'ChatApp.UI'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('chatapp-angular');
+    expect(app.title).toEqual('ChatApp.UI');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('chatapp-angular app is running!');
+    expect(compiled.querySelector('.content span')?.textContent).toContain('ChatApp.UI app is running!');
   });
 });

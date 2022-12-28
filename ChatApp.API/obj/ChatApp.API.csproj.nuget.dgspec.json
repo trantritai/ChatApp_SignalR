@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatAppSingalR/ChatApp.API/ChatApp.API.csproj": {}
+    "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/ChatApp.API.csproj": {}
   },
   "projects": {
-    "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatAppSingalR/ChatApp.API/ChatApp.API.csproj": {
+    "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/ChatApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatAppSingalR/ChatApp.API/ChatApp.API.csproj",
+        "projectUniqueName": "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/ChatApp.API.csproj",
         "projectName": "ChatApp.API",
-        "projectPath": "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatAppSingalR/ChatApp.API/ChatApp.API.csproj",
+        "projectPath": "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/ChatApp.API.csproj",
         "packagesPath": "/Users/bennytran/.nuget/packages/",
-        "outputPath": "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatAppSingalR/ChatApp.API/obj/",
+        "outputPath": "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bennytran/.nuget/NuGet/NuGet.Config"

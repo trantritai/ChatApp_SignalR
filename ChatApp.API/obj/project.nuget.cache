@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A9emzc3dfYMrQK/6jqtByF8+nOjw6uHgV1YVyXTCKopxEklisCqoIcD7G547bNABFyWpQaKbsHIwzgPhZMX7AA==",
+  "dgSpecHash": "5ZcHt7o3wCo9xuK5NFiKms6KlTI552Ir+0lh7kQDhDE15/5Ye5Oeok+EPWhxcIB4FncTkZod0q9NlhHds026QQ==",
   "success": true,
-  "projectFilePath": "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatAppSingalR/ChatApp.API/ChatApp.API.csproj",
+  "projectFilePath": "/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/ChatApp.API.csproj",
   "expectedPackageFiles": [
     "/Users/bennytran/.nuget/packages/messagepack/2.1.90/messagepack.2.1.90.nupkg.sha512",
     "/Users/bennytran/.nuget/packages/messagepack.annotations/2.1.90/messagepack.annotations.2.1.90.nupkg.sha512",

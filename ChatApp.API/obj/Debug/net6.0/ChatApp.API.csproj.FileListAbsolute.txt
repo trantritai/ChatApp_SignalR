@@ -84,3 +84,46 @@
 /Users/bennytran/Desktop/Learning/ChatApp_SignalR/ChatApp_SignalR/ChatAppSingalR/ChatApp.API/obj/Debug/net6.0/ChatApp.API.pdb
 /Users/bennytran/Desktop/Learning/ChatApp_SignalR/ChatApp_SignalR/ChatAppSingalR/ChatApp.API/obj/Debug/net6.0/ChatApp.API.genruntimeconfig.cache
 /Users/bennytran/Desktop/Learning/ChatApp_SignalR/ChatApp_SignalR/ChatAppSingalR/ChatApp.API/obj/Debug/net6.0/ref/ChatApp.API.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/appsettings.json
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/ChatApp.API
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/ChatApp.API.deps.json
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/ChatApp.API.runtimeconfig.json
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/ChatApp.API.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/ChatApp.API.pdb
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/MessagePack.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Microsoft.Extensions.Features.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/System.Net.WebSockets.WebSocketProtocol.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/System.Text.Json.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.csproj.AssemblyReference.cache
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.AssemblyInfoInputs.cache
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.AssemblyInfo.cs
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.csproj.CoreCompileInputs.cache
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/scopedcss/bundle/ChatApp.API.styles.css
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.csproj.CopyComplete
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/refint/ChatApp.API.dll
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.pdb
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ChatApp.API.genruntimeconfig.cache
+/Users/bennytran/Desktop/Learning/ChatApp_SignalR /ChatApp.API/obj/Debug/net6.0/ref/ChatApp.API.dll
